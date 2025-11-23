@@ -14,7 +14,7 @@
 | Styling         | NuxtUI, Tailwind          |
 | Database        | Redis, Drizzle            |
 | State Management| Pinia                     |
-| Authentication  | Nuxt Auth                 |
+| Authentication  | BetterAuth                |
 | Security        | Nuxt Security             |
 
 to be continued...
