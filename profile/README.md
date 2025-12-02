@@ -11,8 +11,6 @@
 
 XyraPanel is a game management panel similar to Pterodactyl, but built with modern technologies and today’s community expectations in mind.
 
-[![Dashboard](.github/images/dashboard.png)](.github/images/dashboard.png)
-
 Wanna help translate? We need all the help we can get! Check out our [Crowdin project](https://crowdin.com/project/xyrapanel).
 
 Join our [Discord community](https://discord.com/invite/NXdctQnMjs) to be an early bird to the party.
