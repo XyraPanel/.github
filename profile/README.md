@@ -6,9 +6,6 @@
   <a href="https://discord.com/invite/NXdctQnMjs"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord" alt="Discord"></a>
 </p>
 
-> [!CAUTION]
-> **BETA:** The project is unstable. APIs, UI, and behavior will change. Do not use in production.
-
 XyraPanel is a game management panel similar to Pterodactyl, but built with modern technologies and today’s community expectations in mind.
 
 Wanna help translate? We need all the help we can get! Check out our [Crowdin project](https://crowdin.com/project/xyrapanel).
