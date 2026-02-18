@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/242441204?s=200&v=4" alt="XyraPanel Logo" width="120" />
-</p>
-
 <h1 align="center">XyraPanel</h1>
 
 <p align="center">
