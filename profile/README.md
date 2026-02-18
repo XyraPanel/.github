@@ -1,23 +1,31 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/242441204?s=200&v=4" alt="XyraPanel Logo" width="120" />
+</p>
+
 <h1 align="center">XyraPanel</h1>
 
 <p align="center">
-  <a href="https://github.com/XyraPanel/panel/blob/main/LICENSE"><img src="https://img.shields.io/github/license/XyraPanel/panel?color=gray" alt="License"></a>
-  <a href="https://crowdin.com/project/xyrapanel"><img src="https://img.shields.io/badge/Crowdin-gray?logo=crowdin" alt="Crowdin"></a>
-  <a href="https://discord.com/invite/NXdctQnMjs"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord" alt="Discord"></a>
+  <a href="https://github.com/XyraPanel/panel/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/XyraPanel/panel?color=gray" alt="License">
+  </a>
+  <a href="https://crowdin.com/project/xyrapanel">
+    <img src="https://img.shields.io/badge/Crowdin-gray?logo=crowdin" alt="Crowdin">
+  </a>
+  <a href="https://discord.com/invite/NXdctQnMjs">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord" alt="Discord">
+  </a>
 </p>
 
-XyraPanel is a game management panel similar to Pterodactyl, but built with modern technologies and today’s community expectations in mind.
+XyraPanel is an open-source game server management project designed around today’s infrastructure and user needs.
 
-Wanna help translate? We need all the help we can get! Check out our [Crowdin project](https://crowdin.com/project/xyrapanel).
-
-Join our [Discord community](https://discord.com/invite/NXdctQnMjs) to be an early bird to the party.
+Join our [Discord community](https://discord.com/invite/NXdctQnMjs) | Wanna help translate? [Crowdin project](https://crowdin.com/project/xyrapanel).
 
 ## License
 
 Published under the [MIT](https://github.com/XyraPanel/panel/blob/main/LICENSE) license.
 
-Made by [@26bz](https://github.com/26bz) and [contributors](https://github.com/XyraPanel/panel/graphs/contributors) 💛
+by [@26bz](https://github.com/26bz) and [contributors](https://github.com/XyraPanel/panel/graphs/contributors) 💛
 
 <a href="https://github.com/XyraPanel/panel/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=XyraPanel/panel" />
+  <img src="https://contrib.rocks/image?repo=XyraPanel/panel" />
 </a>
